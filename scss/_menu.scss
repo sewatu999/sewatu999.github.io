@@ -13,4 +13,7 @@
     background: #fff;
     @include easeOut;
   }
+  &.close {
+    transform: rotate(180deg);
+  }
 }
