@@ -122,8 +122,10 @@ h3 {
   h2.sm-heading,
   h3.sm-heading {
     margin-bottom: 2rem;
-    padding: 0.2rem 1rem;
-    background: rgba(255, 222, 34, 0.5); }
+    padding: 0.2rem 1rem; }
+
+h2 {
+  color: #ffdc18; }
 
 a {
   color: white;
