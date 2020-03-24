@@ -36,6 +36,9 @@ h3 {
 h2 {
   color: $secondary-color;
 }
+h3 {
+  font-size: 2rem;
+}
 
 a {
   color: white;
@@ -97,7 +100,6 @@ main {
 
 .job1 {
   grid-area: job1;
-  font-size: 1.2rem;
 }
 
 .job2 {

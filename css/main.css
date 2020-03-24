@@ -155,7 +155,9 @@ h3.sm-heading {
 h2 {
   color: #ffdc18;
 }
-
+h3 {
+  font-size: 2rem;
+}
 a {
   color: white;
   text-decoration: none;
@@ -212,7 +214,7 @@ main#home h1 {
 
 .job1 {
   grid-area: job1;
-  font-size: 1.2;
+  /* font-size: 25em; */
 }
 
 .job2 {
