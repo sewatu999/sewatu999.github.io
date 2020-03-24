@@ -42,10 +42,6 @@ a {
   text-decoration: none;
 }
 
-.fab.fa-linkedin {
-  background-color: white;
-}
-
 header {
   position: fixed;
   z-index: 2;
@@ -96,11 +92,15 @@ main {
 
 .bio {
   grid-area: bio;
-  font-size: 1rem;
+  font-size: 1.3rem;
 }
 
 .job1 {
   grid-area: job1;
+}
+
+.job2 {
+  grid-area: job2;
 }
 
 .job3 {
