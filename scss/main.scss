@@ -29,13 +29,17 @@ h3 {
   &.sm-heading {
     margin-bottom: 2rem;
     padding: 0.2rem 1rem;
-    background: rgba(lighten($primary-color, 2), 0.5);
+    background: rgba(lighten($secondary-color, 2), 0.5);
   }
 }
 
 a {
   color: white;
   text-decoration: none;
+}
+
+img.li {
+  background-color: white;
 }
 
 header {
@@ -88,15 +92,11 @@ main {
 
 .bio {
   grid-area: bio;
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 
 .job1 {
   grid-area: job1;
-}
-
-.job2 {
-  grid-area: job2;
 }
 
 .job3 {
