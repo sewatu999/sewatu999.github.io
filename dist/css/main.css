@@ -167,10 +167,11 @@ main {
 
 .bio {
   grid-area: bio;
-  font-size: 1.3rem; }
+  font-size: 1.5rem; }
 
 .job1 {
-  grid-area: job1; }
+  grid-area: job1;
+  font-size: 1.2rem; }
 
 .job2 {
   grid-area: job2; }
