@@ -198,6 +198,16 @@ main {
     border-color: #ffdc18;
     transition: all 0.5 ease-out; }
 
+.top {
+  text-align: center; }
+
+.img.triangle-up {
+  width: 0;
+  height: 0;
+  border-left: 40px solid #fff;
+  border-right: 40px solid #fff;
+  border-bottom: 80px solid #fff; }
+
 .boxes {
   display: flex;
   flex-wrap: wrap;
